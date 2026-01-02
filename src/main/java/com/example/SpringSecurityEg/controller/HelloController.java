@@ -1,4 +1,4 @@
-package com.example.SpringSecurityEg;
+package com.example.SpringSecurityEg.controller;
 
 
 import jakarta.servlet.http.HttpServletRequest;
